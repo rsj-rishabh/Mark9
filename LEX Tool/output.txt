@@ -1,0 +1,1 @@
+#include<stdio.h>usingnamespacestd;intmain(){printf("Enterinputs:\n");inta,b,c;scanf("%d%d",a,b);c=a+b;printf("Sumis:\n");return0;}ÿ
